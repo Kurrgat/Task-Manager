@@ -1,7 +1,7 @@
 import json
 
 # Path to the tasks JSON file
-TASKS_FILE = "tasks.json"
+TASKS_FILE = "tasks_data.json"
 
 def load_tasks():
     """Load tasks from the JSON file."""
